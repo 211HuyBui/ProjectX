@@ -122,14 +122,14 @@ button.btn:hover {
     background-position: center;
     padding: 20px;
     border-radius: 12px;
-    color: #fff;
+    color: #6d6060;
 }
 
-h2 {
-    text-align: center;
-    color: #fff;
-    font-size: 2rem;
-    margin-bottom: 20px;
+.perfume-search-section h2 {
+    margin-bottom: 20px; /* Add space between the text and iframe */
+    font-size: 1.5rem;
+    color: #7d6565;
+    text-align: center; /* Center the text */
 }
 
 iframe {
