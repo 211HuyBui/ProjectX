@@ -19,5 +19,6 @@ IP address and request volume analysis
 Incident Response
 An incident report is generated for any flagged activity, and steps are documented to mitigate any threats.
 
-
+Google Docs Link : 
+https://docs.google.com/document/d/1OMmkF3rLQnsch2F2hO1SAxbdSBUy3E_y_pLaMSpJuOU/edit?tab=t.0
 
